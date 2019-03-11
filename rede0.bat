@@ -1,3 +1,3 @@
 @echo off
-start /MIN C:\Users\jefer\Desktop\rede.bat
+start /MIN rede.bat
 exit
